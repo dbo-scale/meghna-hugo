@@ -2,7 +2,6 @@
 author = "Rahul Rana"
 date = 2021-02-19T18:30:00Z
 description = ""
-draft = true
 image = "/images/dbt-2.jpg"
 image_webp = "/images/dbt-1.jpg"
 title = "blog test 1"
